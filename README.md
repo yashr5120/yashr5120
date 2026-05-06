@@ -38,11 +38,11 @@ class YashRam:
     def __init__(self):
         self.name        = "Yash Ram"
         self.location    = "Vadodara, Gujarat, India 🇮🇳"
-        self.education   = "BTech CSE @ PIT Vadodara (Div 1A3)"
+        self.education   = "BTech CSE @ PIT Vadodara"
         self.school      = "Sainik School Balachadi 🎖️"
         self.roles       = ["Student", "Builder", "Open Source Aspirant"]
         self.focus       = ["DSA", "Web Development", "Python", "C/C++"]
-        self.goal_2025   = "Contribute to GSSoC & land my first internship"
+        self.goal        = "Contribute to GSSoC & land my first internship"
         self.philosophy  = "Ship real projects. Learn by doing."
 
     def say_hi(self):
