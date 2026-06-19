@@ -124,10 +124,8 @@ me.say_hi()
 ## 🎯 2025 Roadmap
 
 ```
-[ ]  🌱  Contribute to GSSoC 2025 as open source contributor
 [ ]  💻  Solve 100+ problems on LeetCode (Easy → Medium)
 [ ]  📦  Publish 3 complete, documented projects on GitHub
-[ ]  📜  Clear TCS NQT & earn 2+ developer certifications
 [ ]  💼  Land a software developer internship
 [ ]  🌐  Build and deploy a personal portfolio website
 ```
