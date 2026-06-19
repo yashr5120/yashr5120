@@ -8,16 +8,7 @@
 
 <div align="center">
 
-```
- ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗  █████╗ ███╗   ███╗
- ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔══██╗████╗ ████║
-  ╚████╔╝ ███████║███████╗███████║    ██████╔╝███████║██╔████╔██║
-   ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔══██╗██╔══██║██║╚██╔╝██║
-    ██║   ██║  ██║███████║██║  ██║    ██║  ██║██║  ██║██║ ╚═╝ ██║
-    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%B1;DSA+%7C+Web+Dev+%7C+Python+Builder;GSSoC+2025+Aspirant+%F0%9F%8E%AF;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%B1;DSA+%7C+Web+Dev+%7C+Python+Builder;Data+Analyst+%F0%9F%8E%AF;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 <br/><br/>
 
