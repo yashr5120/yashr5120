@@ -136,7 +136,7 @@ me.say_hi()
 
 | Certification | Issuer | Year |
 |---|---|:---:|
-| 🎓 IT Specialist — HTML & CSS | Pearson / Ethnotech Academy | 2024 |
+| 🎓 IT Specialist — HTML & CSS | Pearson / Ethnotech Academy | 2026 |
 
 ---
 
